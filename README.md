@@ -18,7 +18,7 @@
 <a href="https://instagram.com/yasmine__5aled" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yasmine__5aled" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yasminkhaled3201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yasminkhaled3201" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yasminkhaled32003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yasminkhaled32003" height="30" width="40" /></a>
-<a href="https://discord.gg/#7434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7434" height="30" width="40" /></a>
+<a href="https://discord.gg/#7434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yasmine khaled#7434" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
