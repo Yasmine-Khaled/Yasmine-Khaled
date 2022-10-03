@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmine Khaled</h1>
-<h3 align="center">I am a student at Scientific Computing Department at Faculty of Computer and Information Science, Ain Shams University</h3>
+<h3 align="center">I am a student at Scientific Computing Department at Faculty of Computer and Information Science Ain Shams University</h3>
 
 <img align="right" width="500" alt="Coding" float="centre" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
